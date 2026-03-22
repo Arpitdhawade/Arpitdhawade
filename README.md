@@ -23,8 +23,8 @@
 ⚙️ ETL & Automation: Streamlining workflows and data pipelines for better efficiency.
 
 ## About Me
-With a Bachelor of Pharmacy, my expertise in Python, SQL and data visualization through Power BI was put into practice in my projects. I transformed raw data into compelling insights and interactive dashboards, aiding in strategic decision-making..
-I am eager to leverage my skills in Data Analytics to contribute to future projects. My aim is to integrate analytical precision with a strategic approach to make a substantial impact on business intelligence and outcomes.
+With a Bachelor of Pharmacy, my expertise in Python, SQL and data visualization through Power BI was put into practice in my projects. I transform raw data into compelling insights and interactive dashboards, aiding in strategic decision-making..
+I am eager to leverage my skills and domain knowledge in Data Analytics to contribute to future projects. My aim is to integrate analytical precision with a strategic approach to make a substantial impact on business intelligence and outcomes.
 
 
 ## 🌐 Socials:
