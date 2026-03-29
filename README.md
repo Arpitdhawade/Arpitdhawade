@@ -17,10 +17,10 @@
 
 ## what i do
 
-📊 Data Analysis: Cleaning, transforming, and analyzing datasets to extract key insights.
-📈 Visualization: Creating interactive dashboards and reports using  Power BI .
-🧠 Data Manipulation: Working with SQL and Excel for efficient data handling.
-⚙️ ETL & Automation: Streamlining workflows and data pipelines for better efficiency.
+- 📊 Data Analysis: Cleaning, transforming, and analyzing datasets to extract key insights.
+- 📈 Visualization: Creating interactive dashboards and reports using  Power BI .
+- 🧠 Data Manipulation: Working with SQL and Excel for efficient data handling.
+- ⚙️ ETL & Automation: Streamlining workflows and data pipelines for better efficiency.
 
 ## About Me
 With a Bachelor of Pharmacy, my expertise in Python, SQL and data visualization through Power BI was put into practice in my projects. I transform raw data into compelling insights and interactive dashboards, aiding in strategic decision-making..
