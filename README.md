@@ -31,10 +31,5 @@ I am a Healthcare Data Analyst and B.Pharm graduate bringing a unique blend of c
 
 ---
 
-### 📫 Let's Connect!
-*   **LinkedIn:** [Your LinkedIn Profile](#)
-*   **Email:** [Your Email Address](#)
-*   **Portfolio:** [Your Portfolio Website](#)
-
 ⭐️ *Fun Fact: I actively seek out messy datasets with real-world distributions to challenge my data cleaning skills!*
 
