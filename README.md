@@ -1,14 +1,14 @@
 
 
 <h1 align="center">👋 Hi, I'm Arpit Dhawade</h1>
-<h3 align="center"> Data Analyst | Power BI Developer | Healthcare Analyst| Turning Raw Data into Actionable Insights🔍 | Data Enthusiast  | Visualization & Analytics Expert | Power BI | SQL | Python | Business Intelligence</h3>
+<h3 align="center"> Data Analyst | Healthcare Analyst| Turning Raw Data into Actionable Insights🔍 | Data Enthusiast  | Validation & Analytics Expert | Power BI | SQL | Python | Business Intelligence</h3>
 
 
 
 
 ### Hi there 👋 
 
-- 🔭 I’m a recent Pharmacy graduate with skills in data analytics.
+- 🔭 I’m a Pharmacy graduate with skills in data handeling.
 - 🌱 I’m currently Enhancing my skills in Python and statistics to handle complex healthcare analysis.
       Working on real-world data projects and case studies to improve data storytelling.
 - 📫 How to reach me: arpitdhawade7@gmail.com
